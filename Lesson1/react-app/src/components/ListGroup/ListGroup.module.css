@@ -1,0 +1,5 @@
+/* Vanilla CSS */
+.listGroup {
+    background-color: black;
+    display: flex;
+}
